@@ -1,4 +1,4 @@
-# Realtek RTL8188FTV USB Wi-Fi Adapter (802.11 b/g/n)
+# Realtek USB Wi-Fi Adapter (802.11 b/g/n)
 
 Patched `RtWlanU.kext` for **Wireless-USB-Big-Sur-Adapter**
 
